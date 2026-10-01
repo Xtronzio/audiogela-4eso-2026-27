@@ -7,7 +7,7 @@
     <title>AUDIO GELA · 4.º ESO · Historia</title>
     <link>https://xtronzio.github.io/audiogela-4eso-2026-27/</link>
     <atom:link href="https://xtronzio.github.io/audiogela-4eso-2026-27/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>Podcast educativo de Historia de 4.º ESO: explicaciones claras para estudiar, repasar y practicar.</description>
+    <description>Podcast educativo de Historia de 4.º ESO en castellano y euskera: explicaciones claras para estudiar, repasar y practicar.</description>
     <language>es-es</language>
     <itunes:type>serial</itunes:type>
     <itunes:author>AUDIO GELA</itunes:author>
@@ -18,6 +18,19 @@
       <title>AUDIO GELA · 4.º ESO · Historia</title>
       <link>https://xtronzio.github.io/audiogela-4eso-2026-27/</link>
     </image>
+    <item>
+      <title>HISTORIA · EUS · U1 · T01 — Industrializazioa bultzatu zuten iraultzak</title>
+      <description>Britainia Handiko industrializazioaren hasiera azaltzen duten aldi bereko kausak: demografia-iraultza, nekazaritza-iraultza, pentsamolde berria eta Britainia Handiaren abantailak.</description>
+      <content:encoded><![CDATA[<p>Britainia Handiko industrializazioaren hasiera azaltzen duten aldi bereko kausak: demografia-iraultza, nekazaritza-iraultza, pentsamolde berria eta Britainia Handiaren abantailak.</p>]]></content:encoded>
+      <guid isPermaLink="false">audiogela-4eso-2026-27-historia-eus-u1-t01</guid>
+      <pubDate>Thu, 01 Oct 2026 12:10:00 +0000</pubDate>
+      <enclosure url="https://xtronzio.github.io/audiogela-4eso-2026-27/01-historia-eus-u1-industrializazioa-bultzatu-zuten-iraultzak.mp3" length="4085136" type="audio/mpeg"/>
+      <itunes:duration>11:21</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>HISTORIA · CAST · U1 · T01 — Las revoluciones que impulsaron la industrialización</title>
       <description>Las causas simultáneas que explican el inicio de la industrialización en Gran Bretaña: revolución demográfica, revolución agraria, nueva mentalidad y ventajas británicas.</description>
