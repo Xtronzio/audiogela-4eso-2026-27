@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AUDIO GELA · 4.º ESO · Historia</title>
+    <link>https://xtronzio.github.io/audiogela-4eso-2026-27/</link>
+    <atom:link href="https://xtronzio.github.io/audiogela-4eso-2026-27/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Podcast educativo de Historia de 4.º ESO: explicaciones claras para estudiar, repasar y practicar.</description>
+    <language>es-es</language>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>AUDIO GELA</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://xtronzio.github.io/audiogela-4eso-2026-27/portada.jpg"/>
+    <image>
+      <url>https://xtronzio.github.io/audiogela-4eso-2026-27/portada.jpg</url>
+      <title>AUDIO GELA · 4.º ESO · Historia</title>
+      <link>https://xtronzio.github.io/audiogela-4eso-2026-27/</link>
+    </image>
+    <item>
+      <title>HISTORIA · CAST · U1 · T01 — Las revoluciones que impulsaron la industrialización</title>
+      <description>Las causas simultáneas que explican el inicio de la industrialización en Gran Bretaña: revolución demográfica, revolución agraria, nueva mentalidad y ventajas británicas.</description>
+      <content:encoded><![CDATA[<p>Las causas simultáneas que explican el inicio de la industrialización en Gran Bretaña: revolución demográfica, revolución agraria, nueva mentalidad y ventajas británicas.</p>]]></content:encoded>
+      <guid isPermaLink="false">audiogela-4eso-2026-27-historia-cast-u1-t01</guid>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://xtronzio.github.io/audiogela-4eso-2026-27/01-historia-u1-revoluciones-industrializacion.mp3" length="3667104" type="audio/mpeg"/>
+      <itunes:duration>10:11</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
